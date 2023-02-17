@@ -5,15 +5,15 @@ This library implementantion for rename cpcodes
 
 ## Install
 
-`git clone https://github.com/lcassiano/akamai-cpcodes.git`
-`npm install`
+ - `git clone https://github.com/lcassiano/akamai-cpcodes.git`
+ - `npm install`
 
 ### Credentials
 
 Before you begin, create two files :
 
-cpcodes.txt : list of cpcodes that need to be renamed
-.edgerc file, you need to [Create authentication credentials](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials) in [Control Center](https://control.akamai.com).
+ - cpcodes.txt : list of cpcodes that need to be renamed
+ - .edgerc file, you need to [Create authentication credentials](https://techdocs.akamai.com/developer/docs/set-up-authentication-credentials) in [Control Center](https://control.akamai.com).
 
 ### .edgerc authentication
 
