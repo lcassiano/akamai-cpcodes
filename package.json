@@ -1,0 +1,23 @@
+{
+  "name": "akamai-cpcodes",
+  "version": "1.0.0",
+  "description": "akamai-cpcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcassiano/akamai-cpcodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "akamai-edgegrid": "^3.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lcassiano/akamai-cpcodes/issues"
+  },
+  "homepage": "https://github.com/lcassiano/akamai-cpcodes#readme"
+}
